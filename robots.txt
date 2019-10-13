@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://akaobieng.hayleyeldridge.com/sitemap.xml
